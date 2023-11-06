@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 void main(){
-/* define the data type for the node*/
+/* Define the data type for the node*/
   
 struct node {
   int data;
