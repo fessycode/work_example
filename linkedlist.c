@@ -9,7 +9,7 @@ struct node {
   int data;
   struct node  *next;
 };
-/* creating the pointers*/
+/* Creating the pointers*/
   struct node *head, *newnode, *temp;
   int choice;
   /* assigning header pointer to null because it is not pointing to any node yet */
